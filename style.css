@@ -97,4 +97,24 @@ button {
 
 .stage2 {
     text-align: center;
+    padding-bottom: 50px;
+}
+
+.stage3 {
+    background-color: #E5E7EB;
+    padding: 200px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.cite {
+    color: #1F2937;
+    font-weight: bold;
+    align-self: flex-end;
 }
