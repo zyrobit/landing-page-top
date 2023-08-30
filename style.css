@@ -61,7 +61,7 @@ img {
     max-height: 280px;
 }
 
-button {
+.button {
     background-color: #3882F6;
     color: #E5E7EB;
     border-radius: 8px;
@@ -117,4 +117,37 @@ button {
     color: #1F2937;
     font-weight: bold;
     align-self: flex-end;
+}
+
+.section4 {
+    padding: 55px 88px;
+}
+
+.sign-up {
+    background-color: #3882F6;
+    border-radius: 4px;
+    color: #F9FAF8;
+    display: flex;
+    padding: 22px;
+    justify-content: space-around;
+}
+
+.cta {
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.cta-button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border-radius: 8px;
+    border-color: #F9FAF8;
+    padding: 5px 20px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 30px;
+    text-align: center;
 }
