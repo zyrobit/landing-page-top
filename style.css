@@ -35,3 +35,35 @@ ul {
     justify-content: space-between;
     padding: 20px;
 }
+
+.header-body {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 100px;
+    gap: 320px;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    max-width: 300px;
+}
+
+.title-sub {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+img {
+    max-height: 280px;
+}
+
+button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border-radius: 8px;
+    border: none;
+    padding: 5px 20px;
+}
